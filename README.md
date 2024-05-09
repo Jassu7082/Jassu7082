@@ -1,7 +1,4 @@
 # Hi there 👋 <br> I'm `Jaswanth Reddy` 👨‍💻
-
-- 🧠 Currently learning **Flutter**
-- 🍀 interested in **Building apps**
 - 📍 CSE Undergrad at **NIT Surat**
 
 ### 💻 Tech Stack:
