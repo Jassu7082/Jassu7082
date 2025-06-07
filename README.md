@@ -1,11 +1,6 @@
 # Hi there 👋 <br> I'm `Jaswanth Reddy` 👨‍💻
 - 📍 CSE Undergrad at **NIT Surat**
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jassu7082&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</div>
-<br/>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jassu7082&theme=dark&hide_border=false" alt="GitHub Streak Stats">
 </div>
